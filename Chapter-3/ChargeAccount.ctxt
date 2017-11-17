@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=ChargeAccount
+comment1.params=
+comment1.target=void\ inputPreviousBalance()
+comment2.params=
+comment2.target=void\ inputAdditionalCharges()
+comment3.params=
+comment3.target=void\ computeInterest()
+comment4.params=
+comment4.target=void\ computeNewBalance()
+comment5.params=
+comment5.target=void\ computeMinimumPayment()
+comment6.params=
+comment6.target=void\ makeTable()
+comment7.params=
+comment7.target=void\ makeHeader()
+comment8.params=
+comment8.target=void\ printOneLine()
+numComments=9
